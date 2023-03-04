@@ -12,14 +12,8 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm @HamdaHmida</h1>
 <h3 align="center">A passionate Multidisciplinary Engineering student from Tunisia</h3>
 <h3 align="center">I’m interested in Technologie and Machine Learning</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iheb-ch&label=Profile%20views&color=0e75b6&style=flat" alt="iheb-ch" /> </p>
 
-<p > <img src="https://cp-logo.vercel.app/codeforces/%3C__daredevil__%3E" alt="iheb-ch" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iheb-ch" alt="iheb-ch" /></a> </p>
-
-
-- 🌱 I’m currently learning **Signals and Systems **
+- 🌱 I’m currently learning **Signals and Systems**
 
 - 📫 How to reach me **hamda.hmida@ept.ucar.tn**
 
