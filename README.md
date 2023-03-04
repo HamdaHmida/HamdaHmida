@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hamda-hmida/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hamda-hmida/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/hamda.hmida.7/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.logodownload.org%2Ffacebook-logo%2F&psig=AOvVaw2C01vl6K-lvnXxtmIl2ipa&ust=1678029847712000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjgtsrKwv0CFQAAAAAdAAAAABAD" alt="https://www.linkedin.com/in/hamda-hmida/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/hamda.hmida.7/" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2014/09/facebook-logo-3-1.png" alt="https://www.facebook.com/hamda.hmida.7/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
