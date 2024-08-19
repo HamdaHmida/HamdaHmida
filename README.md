@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">An AI and Optimization Engineering</h3>
 <h3 align="center">I’m interested in Machine Learning and Optimization</h3>
 
-- 🌱 I’m currently learning **Signals and Systems**
+- 🌱 I’ve learned learning **Signals and Systems** at **Ecole Polytechnique de Tunisie**
 
 - 📫 How to reach me **hamda.hmiida@gmail.com**
 
