@@ -10,10 +10,12 @@ HamdaHmida/HamdaHmida is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm @HamdaHmida</h1>
-<h3 align="center">An AI and Optimization Engineering</h3>
-<h3 align="center">I’m interested in Machine Learning and Optimization</h3>
+<h3 align="center">Generative AI and CFD PhD student </h3>
+<h3 align="center">I’m interested in Deep Learning and Optimization</h3>
 
-- 🌱 I’ve learned learning **Signals and Systems** at **Ecole Polytechnique de Tunisie**
+- 🇫🇷 I'm currently a PhD student at **Mines Paris - PSL** 
+
+- 🇹🇳 I’ve learned learning **Signals and Systems** at **Ecole Polytechnique de Tunisie**
 
 - 📫 How to reach me **hamda.hmiida@gmail.com**
 
